@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android EditText</string>
+    <string name="text_change_listener_demo">Text change listener demo</string>
+    <string name="editor_action_listener_demo">Editor action listener demo</string>
+    <string name="adding_image_in_edittext_demo">Adding image in EditText demo</string>
+    <string name="enter_userid">Enter userid</string>
+    <string name="enter_password">Enter password</string>
+</resources>
